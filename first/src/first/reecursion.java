@@ -12,7 +12,7 @@ public class reecursion {
 		
 		}
 		return n;
-		
+		   
 	}
 	public static void main(String[] args) {
 		

@@ -9,6 +9,7 @@ public class reecursion {
 			fact = fact*n;
 			n--;
 			factorial(fact);
+			System.out.println();
 		}
 		return n;
 		
